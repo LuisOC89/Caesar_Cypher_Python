@@ -8,3 +8,5 @@ You would have to have a program that lets you execute Python files in your comp
 
 +Instructions (to make it work): 
 Watch video with instructions.
+
+https://user-images.githubusercontent.com/34034179/33466412-cdf54cd8-d61b-11e7-8a48-2006bdbcffa0.PNG
