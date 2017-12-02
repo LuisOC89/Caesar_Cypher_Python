@@ -1,4 +1,4 @@
-# Caesar_Cypher_Python
+# caesar_cypher_cython
 Version of the Caesar Cypher using Python 3
 
 +Purpose of the project: Practice programming skills in Python 3. Anyway: This program works!!! If you want to send a message to somebody and you dont want somebody_else_that_dont_know_nothing_about_cyphers_programming_or_internet to know what your message says, you can use this program.
