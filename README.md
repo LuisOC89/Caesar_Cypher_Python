@@ -6,7 +6,7 @@ This program is a version of the Caesar Cypher using Python 3.
 It works!!! If you want to send a message to somebody and you dont want somebody_else_that_doesnt_know_nothing_about_cyphers_programming_or_internet to know what your message says, you can use this program. If you want to know more about the Caesar Cypher itself, watch the next video (click on the screen below).
 
 <a href="https://www.youtube.com/watch?v=sMOZf4GN3oc">
-<img src="http://i3.ytimg.com/vi/sMOZf4GN3oc/maxresdefault.jpg" alt="Go to W3Schools!" width="500">
+<img src="http://i3.ytimg.com/vi/sMOZf4GN3oc/maxresdefault.jpg" alt="The Caesar Cipher"" width="500">
 </a>
 
 ## Getting Started
