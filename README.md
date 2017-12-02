@@ -11,7 +11,7 @@ It works!!! If you want to send a message to somebody and you dont want somebody
 
 ## Getting Started
 
-Get a copy of the project by downloading the three python files located in the folder named **python_format_files** (the ones that end in *.py*) and save them in the same folder in your computer. For notes on how to run the project on your computer please read the Instructions below.
+Get a copy of the project by downloading the three python files located in the folder named **python_format_files** (the ones that end in *.py*) and save them in the same folder in your computer. For running the project on your computer please read the Instructions below.
 
 ### Prerequisites
 You would have to have an IDE (Interface Development Environment) software that lets you execute Python files in your computer. The python IDE is free and can be directly downloaded from the python website [here.](https://www.python.org/downloads/release/python-363/)
