@@ -59,5 +59,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * I wouldnt have created this code without LaunchCode Tampa Fall 2017. Thanks for the knowledge and the good ideas.
-* I would like to thank @NickeManarin. His project @NickeManarin/ScreenToGif helped me to convert a video to a .gif image. Thanks! 
-* I would like to thank @roachhd. Her project @roachhd/README.md helped me to insert emojis in my readme.md file. Thanks!
+* I would like to thank [@NickeManarin](https://github.com/NickeManarin). His project [@NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) helped me to convert a video to a .gif image. Thanks! 
+* I would like to thank [@roachhd](https://gist.github.com/roachhd). Her project [@roachhd/README.md](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) helped me to insert emojis in my readme.md file. Thanks!
