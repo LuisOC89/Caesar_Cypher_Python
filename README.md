@@ -3,7 +3,7 @@
 <img src="images/GifFromVideo3.gif" width="600">
 
 This program is a version of the Caesar Cypher using Python 3. 
-It works!!! If you want to send a message to somebody and you dont want somebody_else_that_doesnt_know_nothing_about_cyphers_programming_or_internet to know what your message says, you can use this program. If you want to know more about the Caesar Cypher itself, watch the next video (click on the screen below).
+It works!!! If you want to send a message (✉️) to somebody and you dont want somebody_else_that_doesnt_know_nothing_about_cyphers_programming_or_internet to know what your ✉️ says, you can use this program. If you want to know more about the Caesar Cypher itself, watch the next video (click on the screen below).
 
 <a href="https://www.youtube.com/watch?v=sMOZf4GN3oc">
 <img src="http://i3.ytimg.com/vi/sMOZf4GN3oc/maxresdefault.jpg" alt="The Caesar Cipher"" width="600">
@@ -21,13 +21,16 @@ link: https://www.python.org/downloads/release/python-363/
 ```
 
 ## Instructions (to make it work): 
-Watch video with instructions.
-```
-link: https://www.python.org/downloads/release/python-363/
-```
-<a href="https://www.youtube.com/watch?v=sMOZf4GN3oc">
+Watch video with instructions (click on image below).
+
+<a href="https://youtu.be/ezf69cKpxjE">
 <img src="images/GifFromVideo3.gif" width="600">
 </a>
+
+```
+link: https://youtu.be/ezf69cKpxjE
+```
+
 
 ## Built With
 
@@ -47,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Luis Orozco** - *Initial work* - [LuisOC89](https://github.com/LuisOC89)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/LuisOC89/Caesar_Cypher_Python/contributors) who participated in this project.
 
 ## License
 
@@ -55,4 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* I wouldnt have created this code without LaunchCode Tampa Fall 2017. Thanks for the knowledge and the good ideas.  
+* I wouldnt have created this code without LaunchCode Tampa Fall 2017. Thanks for the knowledge and the good ideas.
+* I would like to thank @NickeManarin. His project @NickeManarin/ScreenToGif helped me to convert a video to a .gif image. Thanks! 
+* I would like to thank @roachhd. Her project @roachhd/README.md helped me to insert emojis in my readme.md file. Thanks!
